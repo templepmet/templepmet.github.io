@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+title = "History"
+subtitle = "経歴"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  company = "大阪大学 基礎工学部情報科学科"
+  company_url = "https://www.ics.es.osaka-u.ac.jp/"
+  location = "Toyonaka"
+  date_start = "2020-04-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  company = "米子工業高等専門学校 電子制御工学科"
+  company_url = "https://www.yonago-k.ac.jp/doc/subject/page-002-03"
+  location = "Yonago"
+  date_start = "2015-04-01"
+  date_end = "2020-03-31"
 
 +++
